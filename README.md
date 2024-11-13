@@ -4,7 +4,7 @@ This repository contains files for a Raspberry Pi computer for a small handheld 
 More fetures coming.
 
 Components:
-  Adafruit SHARP Memory Display Breakout - 2.7 400x240
-  Raspberry Pi Zero W
-  Hall effect sensor - US5881LUA
+  Adafruit SHARP Memory Display Breakout - 2.7 400x240, 
+  Raspberry Pi Zero W, 
+  Hall effect sensor - US5881LUA, 
   22awg Wire
