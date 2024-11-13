@@ -1,0 +1,14 @@
+#Step up provided by Adafruit at: https://learn.adafruit.com/adafruit-sharp-memory-display-breakout/python-setup
+
+# -------------
+# Copy and paste each command separately in the terminal on the Raspberry Pi. 
+# -------------
+
+# Install the SHARP Display Library
+# pip3 install adafruit-circuitpython-sharpmemorydisplay
+
+# Install dejava font for SHARP Display Library
+# sudo apt-get install fonts-dejavu
+
+# Install Pillow Library
+# sudo apt-get install python3-pil
