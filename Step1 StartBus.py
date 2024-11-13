@@ -1,3 +1,10 @@
+#Wiring can be found at: https://learn.adafruit.com/adafruit-sharp-memory-display-breakout/python-setup
+#Code from https://learn.adafruit.com/adafruit-sharp-memory-display-breakout/python-usage
+
+# --------------
+# This code initialize the SPI bus
+# --------------
+
 import board
 import busio
 import digitalio
